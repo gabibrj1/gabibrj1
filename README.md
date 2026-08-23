@@ -17,6 +17,7 @@
 - Writing automation scripts and performing manual testing/QA
 - Bachelor's degree in Computer Science from Transilvania University of Brasov, currently pursuing a Master's degree in Embedded Systems
 - Interested in DevOps, Linux administration, and relational databases
+- 🎯 Currently focusing on DevOps — CI/CD, containerization, and infrastructure monitoring
 - 📍 Based in Brasov, Romania
 
 ### 💻 Tech stack
@@ -32,6 +33,8 @@
 
 ### 📌 Projects
 
+- **[HAR-MLOps-Monitoring](https://github.com/gabibrj1/HAR-MLOps-Monitoring)** — human activity recognition API with full MLOps observability stack (MLflow, Prometheus, Grafana)
+- **[client-server-arbiter-systemverilog](https://github.com/gabibrj1/client-server-arbiter-systemverilog)** — client-server bus arbiter (fixed priority & round-robin) in SystemVerilog
 - **[Licenta](https://github.com/gabibrj1/Licenta)** — bachelor's thesis project, Python
 - **[Sistem-de-recunoastere-faciala](https://github.com/gabibrj1/Sistem-de-recunoastere-faciala)** — facial recognition system in C
 - **[Proiect-DSP-Detectarea-cuvintelor](https://github.com/gabibrj1/Proiect-DSP-Detectarea-cuvintelor)** — word detection in audio using NEON SIMD on Raspberry Pi 4
