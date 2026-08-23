@@ -12,10 +12,10 @@
 
 ### 🛠️ About me
 
-- 🔧 IT Operations Engineer supporting trading systems — regulatory reporting, database operations, and day-to-day platform support
+- 🔧 IT Operations Engineer supporting trading systems - regulatory reporting, database operations, and day-to-day platform support
 - 🖥️ Daily work with remote server administration (PuTTY, Termius, WinSCP), database manipulation, debugging & troubleshooting, log analysis, and reporting/statistics
 - ⚙️ Writing automation scripts and performing manual testing/QA
-- 🎓 Bachelor's degree in Computer Science from Transilvania University of Brașov, currently pursuing a Master's degree in Embedded Systems
+- 🎓 Bachelor's degree in Computer Science from Transilvania University of Brasov, currently pursuing a Master's degree in Embedded Systems
 - 🐧 Interested in DevOps, Linux administration, and relational databases
 - 📍 Based in Brașov, Romania
 
